@@ -1,4 +1,7 @@
 {
+  "homepage": "https://github.com/SEVA-coder-cloud/dz-semester5-8",
+  "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
   "name": "dz-semester5-8",
   "version": "0.1.0",
   "private": true,
