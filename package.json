@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/SEVA-coder-cloud/dz-semester5-8",
+  "homepage": "https://seva-coder-cloud.github.io/dz-semester5-8/",
   "scripts": {
 
     "start": "react-scripts start",
