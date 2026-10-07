@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz-semester5-8/static/css/main.e6c13ad2.css",
+    "main.js": "/dz-semester5-8/static/js/main.b70bccc3.js",
+    "index.html": "/dz-semester5-8/index.html",
+    "main.e6c13ad2.css.map": "/dz-semester5-8/static/css/main.e6c13ad2.css.map",
+    "main.b70bccc3.js.map": "/dz-semester5-8/static/js/main.b70bccc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b70bccc3.js"
+  ]
+}
